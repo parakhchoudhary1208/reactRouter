@@ -72,8 +72,8 @@ export default function Footer() {
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2023
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                        <a href="https://transcendent-beignet-2d4847.netlify.app/" className="hover:underline">
+                            parakhchoudhary
                         </a>
                         . All Rights Reserved.
                     </span>
